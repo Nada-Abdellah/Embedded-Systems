@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Nada-Abdellah
-- 👀 I’m interested in reading, writing and learning. I like reading in various topics and learning new things in my field
-- 🌱 I’m building deep learning models and learning C language for embedded systems.
-- 💞️ I’m looking to collaborate on deep learning or computer vision projects where I can learn more and offer help if I can
+- 👀 I’m interested in reading, writing and learning. I like reading in various topics and learning new technologies in my field
+- 🌱 I’m building deep learning models, reinforcement learning models, and embedded systems programs
 - 📫 You can either reach me by email: nada.abdellah12@gmail.com or by LinkedIn: https://www.linkedin.com/in/nada-abdellah-6456aa161/ 
 
 <!---
